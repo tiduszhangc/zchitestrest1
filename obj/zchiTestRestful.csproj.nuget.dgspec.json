@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\users\\ZhangC82\\Documents\\donet-study\\azuretest\\zchiTestRestful.csproj": {}
+    "E:\\users\\ZhangC82\\Documents\\donet-study\\zchitestrest1\\zchiTestRestful.csproj": {}
   },
   "projects": {
-    "E:\\users\\ZhangC82\\Documents\\donet-study\\azuretest\\zchiTestRestful.csproj": {
+    "E:\\users\\ZhangC82\\Documents\\donet-study\\zchitestrest1\\zchiTestRestful.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\users\\ZhangC82\\Documents\\donet-study\\azuretest\\zchiTestRestful.csproj",
+        "projectUniqueName": "E:\\users\\ZhangC82\\Documents\\donet-study\\zchitestrest1\\zchiTestRestful.csproj",
         "projectName": "zchiTestRestful",
-        "projectPath": "E:\\users\\ZhangC82\\Documents\\donet-study\\azuretest\\zchiTestRestful.csproj",
+        "projectPath": "E:\\users\\ZhangC82\\Documents\\donet-study\\zchitestrest1\\zchiTestRestful.csproj",
         "packagesPath": "e:\\users\\ZhangC82\\.nuget\\packages\\",
-        "outputPath": "E:\\users\\ZhangC82\\Documents\\donet-study\\azuretest\\obj\\",
+        "outputPath": "E:\\users\\ZhangC82\\Documents\\donet-study\\zchitestrest1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "e:\\users\\ZhangC82\\AppData\\Roaming\\NuGet\\NuGet.Config",

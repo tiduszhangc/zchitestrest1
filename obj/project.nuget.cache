@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ePh2LXYK7xozAcRu1o7+VEjIMpOauOFigCkpHXyZdrwPIWKhireLlN60R86KhS6RQaeQN27GcixtHAwNoEur/A==",
+  "dgSpecHash": "sLe2j1SKz9moHI6nVRSIDHYcJSMEhn6o6rNRF1f27WCS1BmabSmjOez4/X6KEB2eCrsIgc7HlfiQmYsBoZTzUw==",
   "success": true,
-  "projectFilePath": "E:\\users\\ZhangC82\\Documents\\donet-study\\azuretest\\zchiTestRestful.csproj",
+  "projectFilePath": "E:\\users\\ZhangC82\\Documents\\donet-study\\zchitestrest1\\zchiTestRestful.csproj",
   "expectedPackageFiles": [
     "e:\\users\\ZhangC82\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "e:\\users\\ZhangC82\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
