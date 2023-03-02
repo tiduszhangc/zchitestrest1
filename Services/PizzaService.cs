@@ -11,7 +11,8 @@ namespace zchiTestRestful.Services
             Pizzas = new List<Pizza>
         {
             new Pizza { Id = 1, Name = "Classic Italian", IsGlutenFree = false },
-            new Pizza { Id = 2, Name = "Veggie", IsGlutenFree = true }
+            new Pizza { Id = 2, Name = "Veggie", IsGlutenFree = true },
+            new Pizza { Id = 3, Name = "zchi pizza", IsGlutenFree = true }
         };
         }
 
